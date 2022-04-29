@@ -1,0 +1,174 @@
+length(31127): 89
+length(31124): 80
+length(31128): 81
+length(31126): 91
+
+# Theodoridis (31127)
+NA (src): μὲν, ἔσω, τε, εἴσω, δὴ, κἀν, θεῶν, γένει, δὲ, γάρ, δὲ, δ᾽, ἀν᾽
+NA (tgt): and, Of, and, in, the, gods, as, well, and, and
+
+
+# Coleridge (31124)
+NA (src): μὲν, κοὐκ, ἀνώνυμος, τε, εἰς, γὰρ, δὴ, κἀν, γένει, τόδε, δὲ, ἀλήθειαν, τόκος, πολιτῶν, τῆσδε, γῆς, δὲ, δ᾽, ἀν᾽, χθονός
+NA (tgt): I, am, Aphrodite, A, goddess, Also, Of, and, of, the, East, the, farthest, ends, of, the, West, of, also, them, of, being, a, god, We, all, of, us, and, so, Hippolyta, -the, only, one, in, the, whole, hates, me, Hippolytus, says, this, He, is, the, only, mortal, the, only, man, who, says, this, The, boy, nor, that, Nods, towards, the, statue, of, Artemis, she’s, and, so, the, two, of, them, he, and, there, take, their, and, has, no, business, with, an, immortal
+
+
+# Kovacs (31128)
+NA (src): μὲν, τ᾽, ἔσω, τε, εἴσω, εἰς, δὴ, κἀν, ὕπο, δὲ, μύθων, τόκος, πολιτῶν, γῆς, δὲ, κοὐ, δαιμόνων, δ᾽, ἀν᾽
+NA (tgt): I, am, and, who, Of, and, disparage, bestow, and, Hippolyta, had, and, this, lad, to, have, women, in, his, to, be, god, of, all, He, spends, his, time, with, a, god
+
+
+# Johnston (31126)
+NA (src): μὲν, κοὐκ, ἀνώνυμος, τ᾽, κἀν, ὕπο, μύθων, πεφυκέναι, δὲ, ψαύει, ἀν᾽
+NA (tgt): my, realm, extends, and, proud, both, mongst, even, pay, them, and, will, of, it
+
+
+
+Intersection (7):
+------------------
+
+{('ἡμᾶς', 'me'), ('κράτη', 'power'), ('τἀμὰ', 'my'), ('Ἄρτεμιν', 'Artemis'), ('κόρην', 'daughter'), ('τ᾽', 'and'), ('ἀδελφὴν', 'sister')}
+
+=====================================
+
+
+length(31127): 89
+length(31124): 80
+
+
+Intersection (15):
+------------------
+
+{('δ᾽', 'Instead'), ('ἐν', 'among'), ('ἡμᾶς', 'me'), ('ὁ Ἱππόλυτος', 'Hippolytus'), ('κράτη', 'power'), ('φῶς', 'the light'), ('τἀμὰ', 'my'), ('Ἄρτεμιν', 'Artemis'), ('πεφυκέναι', 'am'), ('λέκτρα', 'the bed of love'), ('με', 'I'), ('ἡλίου', 'of the sun'), ('τ᾽', 'and'), ('ἀδελφὴν', 'sister'), ('κόρην', 'daughter')}
+
+
+TPs in 31127 not in 31124 (72):
+------------------
+
+{('παῖς', 'son'), ('τ᾽', 'alike'), ('ἐξαιρεῖ', 'he clears of'), ('εἰς', 'against'), ('Ἀτλαντικῶν', 'the Pillars of Atlas'), ('φρονοῦσιν', 'think'), ('δ᾽', 'but'), ('γὰρ', 'For'), ('ἀεὶ', 'ever'), ('Πολλὴ', 'Mighty'), ('ὅσοι', 'all those who'), ('ὁμιλίας', 'a companionship'), ('Τροζηνίας', 'of Trozen'), ('ταχείαις', 'swift'), ('δείξω', 'I shall demonstrate'), ('βροτοῖσι', 'mortals'), ('ψαύει', 'will have to do with'), ('τιμᾷ', 'he honors'), ('τερμόνων', 'between'), ('μέγα', 'proud thoughts'), ('μείζω', 'greater'), ('σέβοντας', 'reverence'), ('χθονός', 'the land'), ('τοὺς μὲν', 'those who'), ('παιδεύματα', 'ward'), ('βροτείας', 'than mortal'), ('ἀλήθειαν', 'The truth'), ('μύθων', 'of words'), ('τιμώμενοι', 'receiving honor'), ('Διὸς', "Zeus ' s"), ('κυσὶν', 'with his dogs'), ('λέγει', 'says that'), ('κακίστην', 'the basest'), ('Θησέως', "Theseus '"), ('οὐρανοῦ', 'in heaven'), ('τάχα', 'shortly'), ('παρθένῳ', 'the maiden goddess'), ('πρεσβεύω', 'I honor'), ('ὁρῶντες', 'look on'), ('Κύπρις', 'Aphrodite'), ('ἁγνοῦ', 'holy'), ('ὕλην', 'In the wood'), ('χαίρουσιν', 'they enjoy'), ('θῆρας', 'wild beasts'), ('τόδε', 'this trait'), ('δαιμόνων', 'of divinities'), ('κέκλημαι', 'I am called'), ('μόνος', 'alone'), ('σφάλλω', 'I lay low'), ('τῶνδ᾽', 'these'), ('Πιτθέως', 'of Pittheus'), ('γῆς', 'of land'), ('Πόντου', 'the Euxine Sea'), ('πολιτῶν', 'among the citizens'), ('ἔνεστι', 'one finds'), ('ναίουσιν', 'dwell'), ('χλωρὰν', 'green'), ('μεγίστην', 'her the greatest'), ('τῆσδε', 'this'), ('προσπεσὼν', 'has gained'), ('κοὐκ ἀνώνυμος', 'and of high renown'), ('τόκος', 'by'), ('Φοίβου', "Apollo ' s"), ('θεὰ', 'the goddess'), ('Ἀμαζόνος', 'the Amazon woman'), ('ἡγούμενος', 'thinking'), ('κοὐ', 'and nothing'), ('ἀναίνεται', 'He shuns'), ('ὕπο', 'from'), ('ἀνθρώπων', 'mortals'), ('γάμων', 'marriage'), ('ξυνὼν', 'consort to')}
+
+
+TPs in 31124 not in 31127 (65):
+------------------
+
+{('ἐξαιρεῖ', 'sending away'), ('θεῶν', 'gods'), ('βροτοῖσι', 'the mortals'), ('ἡγούμενος', 'He thinks'), ('ἀναίνεται', 'go anywhere near'), ('δαιμόνων', 'of all the goddesses'), ('χαίρουσιν', 'enjoy'), ('σφάλλω', 'I crush and destroy'), ('παῖς', 'that child'), ('Φοίβου', 'Apollo’s'), ('θῆρας', 'all the wild beasts'), ('τοὺς μὲν', 'all those of them who'), ('Ἀτλαντικῶν', 'the great Pillars of Atlas'), ('ναίουσιν', 'who live'), ('δ᾽', 'But'), ('δαιμόνων', 'of all the gods'), ('ὅσοι', 'those mortals who'), ('ὁμιλίας', 'relationship'), ('οὐρανοῦ', 'the heavens'), ('Διὸς', 'Zeus’'), ('χλωρὰν', 'plush'), ('μύθων', 'I say'), ('τ᾽', 'as well as'), ('κοὐ ψαύει γάμων', 'will neither marry anyone'), ('μόνος', 'is the only one who'), ('Πόντου', 'the Black Sea'), ('μείζω', 'such a close'), ('Θησέως', 'by the seed of Theseus'), ('τερμόνων', 'the very edges'), ('βροτείας', 'A mortal'), ('Τροζηνίας', 'of Troezen'), ('προσπεσὼν', 'being in'), ('ἀεὶ', 'all day'), ('τιμώμενοι', 'being revered'), ('ἔσω', 'throughout'), ('ξυνὼν', 'go roaming together'), ('ὁρῶντες', 'look upon'), ('κέκλημαι', 'called'), ('κυσὶν', 'hunting dogs'), ('τῶνδ᾽', 'So'), ('φρονοῦσιν μέγα', 'treat with disrespect'), ('Ἀμαζόνος', 'of the Amazon'), ('παρθένῳ', 'his little virgin deity'), ('εἴσω', 'between'), ('ὅσοι', 'those of them who'), ('ὕπο', 'by'), ('μεγίστην', 'by far the greater'), ('δείξω', 'I shall prove'), ('σέβοντας', 'respect'), ('λέγει', 'He says that'), ('ἁγνοῦ', 'that pure man'), ('τάχα', 'very shortly'), ('ὕλην', 'about the forest'), ('θεὰ', 'A goddess'), ('τιμᾷ', 'he reveres'), ('γάρ', 'You see'), ('ἀνθρώπων', 'the mortals'), ('Πολλὴ', 'great'), ('παιδεύματα', 'who was raised'), ('πρεσβεύω', 'I respect them'), ('Πιτθέως', 'by Pittheus'), ('κακίστην', 'the worst'), ('ταχείαις', 'great'), ('ἔνεστι', 'It’s part'), ('Κύπρις', 'Cypris')}
+
+=====================================
+
+
+length(31127): 89
+length(31128): 81
+
+
+Intersection (22):
+------------------
+
+{('ἐν', 'among'), ('Ἀτλαντικῶν', 'the Pillars of Atlas'), ('δ᾽', 'but'), ('γὰρ', 'For'), ('ταχείαις', 'swift'), ('Ἄρτεμιν', 'Artemis'), ('ὅσοι', 'all those who'), ('ἀδελφὴν', 'sister'), ('χθονός', 'the land'), ('τοὺς μὲν', 'those who'), ('κράτη', 'power'), ('οὐρανοῦ', 'in heaven'), ('Κύπρις', 'Aphrodite'), ('ἡμᾶς', 'me'), ('ὁ Ἱππόλυτος', 'Hippolytus'), ('τἀμὰ', 'my'), ('χλωρὰν', 'green'), ('Πόντου', 'the Euxine Sea'), ('με', 'I'), ('μεγίστην', 'her the greatest'), ('κόρην', 'daughter'), ('τ᾽', 'and')}
+
+
+TPs in 31127 not in 31128 (65):
+------------------
+
+{('παῖς', 'son'), ('τ᾽', 'alike'), ('ἐξαιρεῖ', 'he clears of'), ('εἰς', 'against'), ('φρονοῦσιν', 'think'), ('ὁμιλίας', 'a companionship'), ('ἀεὶ', 'ever'), ('Πολλὴ', 'Mighty'), ('Τροζηνίας', 'of Trozen'), ('ψαύει', 'will have to do with'), ('δείξω', 'I shall demonstrate'), ('βροτοῖσι', 'mortals'), ('τιμᾷ', 'he honors'), ('τερμόνων', 'between'), ('μέγα', 'proud thoughts'), ('μείζω', 'greater'), ('σέβοντας', 'reverence'), ('δ᾽', 'Instead'), ('παιδεύματα', 'ward'), ('βροτείας', 'than mortal'), ('ἀλήθειαν', 'The truth'), ('τιμώμενοι', 'receiving honor'), ('μύθων', 'of words'), ('Διὸς', "Zeus ' s"), ('κυσὶν', 'with his dogs'), ('λέγει', 'says that'), ('κακίστην', 'the basest'), ('Θησέως', "Theseus '"), ('φῶς', 'the light'), ('τάχα', 'shortly'), ('παρθένῳ', 'the maiden goddess'), ('πρεσβεύω', 'I honor'), ('λέκτρα', 'the bed of love'), ('ὁρῶντες', 'look on'), ('ἁγνοῦ', 'holy'), ('ὕλην', 'In the wood'), ('χαίρουσιν', 'they enjoy'), ('θῆρας', 'wild beasts'), ('τόδε', 'this trait'), ('δαιμόνων', 'of divinities'), ('κέκλημαι', 'I am called'), ('μόνος', 'alone'), ('σφάλλω', 'I lay low'), ('τῶνδ᾽', 'these'), ('Πιτθέως', 'of Pittheus'), ('γῆς', 'of land'), ('πολιτῶν', 'among the citizens'), ('ἔνεστι', 'one finds'), ('ναίουσιν', 'dwell'), ('τῆσδε', 'this'), ('προσπεσὼν', 'has gained'), ('κοὐκ ἀνώνυμος', 'and of high renown'), ('τόκος', 'by'), ('Φοίβου', "Apollo ' s"), ('θεὰ', 'the goddess'), ('Ἀμαζόνος', 'the Amazon woman'), ('ἡγούμενος', 'thinking'), ('κοὐ', 'and nothing'), ('πεφυκέναι', 'am'), ('ἡλίου', 'of the sun'), ('ἀναίνεται', 'He shuns'), ('ὕπο', 'from'), ('ἀνθρώπων', 'mortals'), ('γάμων', 'marriage'), ('ξυνὼν', 'consort to')}
+
+
+TPs in 31128 not in 31127 (59):
+------------------
+
+{('σφάλλω', 'I strike down'), ('ὁρῶντες', 'gaze upon'), ('ὕλην', 'in forests'), ('δείξω', 'I will demonstrate'), ('ἡγούμενος', 'believing'), ('γένει', 'the family'), ('Φοίβου', 'Apollo’s'), ('τάχα', 'soon'), ('ναίουσιν', 'inhabit'), ('παρθένῳ', 'that virgin goddess'), ('τιμώμενοι', 'from those honours'), ('Τροζηνίας', 'in Troezen'), ('Ἀμαζόνος', 'an Amazon'), ('βροτοῖσι', 'all mortal men'), ('Θησέως', 'Theseus'), ('ξυνὼν', 'in the company of'), ('κέκλημαι', 'call me'), ('τερμόνων', 'regions between'), ('δαιμόνων', 'of all divinities'), ('κοὐκ ἀνώνυμος', 'celebrated'), ('λέγει', 'claims that'), ('μείζω', 'too close'), ('ἀνθρώπων', 'human beings'), ('προσπεσὼν', 'The two enjoy'), ('θεῶν', 'of gods'), ('σέβοντας', 'give due respect'), ('χαίρουσιν', 'get great delight'), ('πεφυκέναι', 'by nature am'), ('ψαύει', 'turns his back on any thought'), ('Διὸς', 'Zeus’s'), ('φρονοῦσιν μέγα', 'stuffed with pride'), ('Πολλὴ', 'powerful'), ('παῖς', 'a son'), ('τῆσδε', 'here'), ('ὁμιλίας', 'a close relationship'), ('θῆρας', 'wild creatures'), ('κακίστην', 'the most despicable'), ('γάμων', 'of marriage'), ('τιμᾷ', 'worships'), ('ἀεὶ', 'always'), ('ἀναίνεται', 'He refuses'), ('βροτείας', 'for any mortal'), ('ἐξαιρεῖ', 'scouring for'), ('πρεσβεύω', 'I look with favour on'), ('ἔνεστι', 'shares'), ('θεὰ', 'a goddess'), ('δ᾽', 'and'), ('κυσὶν', 'with his hunting dogs'), ('τόδε', 'this attribute—they'), ('γάρ', 'For'), ('παιδεύματα', 'a student trained'), ('ὅσοι', 'all people who'), ('τῶνδ᾽', 'this'), ('ἁγνοῦ', 'pious'), ('Πιτθέως', 'by Pittheus'), ('ἀλήθειαν', 'That is true'), ('φῶς ἡλίου', 'the sunlight'), ('μόνος', 'is the only person who'), ('λέκτρα', 'bed')}
+
+=====================================
+
+
+length(31127): 89
+length(31126): 91
+
+
+Intersection (20):
+------------------
+
+{('παῖς', 'son'), ('ἐξαιρεῖ', 'he clears of'), ('δ᾽', 'but'), ('γὰρ', 'For'), ('ἀεὶ', 'ever'), ('Ἄρτεμιν', 'Artemis'), ('ὅσοι', 'all those who'), ('ἀδελφὴν', 'sister'), ('κράτη', 'power'), ('φῶς', 'the light'), ('ἡμᾶς', 'me'), ('ἁγνοῦ', 'holy'), ('θῆρας', 'wild beasts'), ('μόνος', 'alone'), ('τἀμὰ', 'my'), ('ναίουσιν', 'dwell'), ('τῆσδε', 'this'), ('θεὰ', 'the goddess'), ('κόρην', 'daughter'), ('τ᾽', 'and')}
+
+
+TPs in 31127 not in 31126 (67):
+------------------
+
+{('τ᾽', 'alike'), ('ἐν', 'among'), ('εἰς', 'against'), ('Ἀτλαντικῶν', 'the Pillars of Atlas'), ('φρονοῦσιν', 'think'), ('ὁμιλίας', 'a companionship'), ('ταχείαις', 'swift'), ('Πολλὴ', 'Mighty'), ('Τροζηνίας', 'of Trozen'), ('ψαύει', 'will have to do with'), ('δείξω', 'I shall demonstrate'), ('βροτοῖσι', 'mortals'), ('τιμᾷ', 'he honors'), ('τερμόνων', 'between'), ('μέγα', 'proud thoughts'), ('μείζω', 'greater'), ('σέβοντας', 'reverence'), ('χθονός', 'the land'), ('τοὺς μὲν', 'those who'), ('παιδεύματα', 'ward'), ('βροτείας', 'than mortal'), ('ἀλήθειαν', 'The truth'), ('μύθων', 'of words'), ('τιμώμενοι', 'receiving honor'), ('δ᾽', 'Instead'), ('Διὸς', "Zeus ' s"), ('λέγει', 'says that'), ('κυσὶν', 'with his dogs'), ('κακίστην', 'the basest'), ('Θησέως', "Theseus '"), ('οὐρανοῦ', 'in heaven'), ('τάχα', 'shortly'), ('παρθένῳ', 'the maiden goddess'), ('πρεσβεύω', 'I honor'), ('λέκτρα', 'the bed of love'), ('ὁρῶντες', 'look on'), ('Κύπρις', 'Aphrodite'), ('ὁ Ἱππόλυτος', 'Hippolytus'), ('ὕλην', 'In the wood'), ('χαίρουσιν', 'they enjoy'), ('τόδε', 'this trait'), ('δαιμόνων', 'of divinities'), ('κέκλημαι', 'I am called'), ('ἔνεστι', 'one finds'), ('σφάλλω', 'I lay low'), ('τῶνδ᾽', 'these'), ('Πιτθέως', 'of Pittheus'), ('γῆς', 'of land'), ('Πόντου', 'the Euxine Sea'), ('πολιτῶν', 'among the citizens'), ('με', 'I'), ('χλωρὰν', 'green'), ('μεγίστην', 'her the greatest'), ('προσπεσὼν', 'has gained'), ('κοὐκ ἀνώνυμος', 'and of high renown'), ('τόκος', 'by'), ('Φοίβου', "Apollo ' s"), ('Ἀμαζόνος', 'the Amazon woman'), ('ἡγούμενος', 'thinking'), ('κοὐ', 'and nothing'), ('πεφυκέναι', 'am'), ('ἡλίου', 'of the sun'), ('ἀναίνεται', 'He shuns'), ('ὕπο', 'from'), ('ἀνθρώπων', 'mortals'), ('γάμων', 'marriage'), ('ξυνὼν', 'consort to')}
+
+
+TPs in 31126 not in 31127 (70):
+------------------
+
+{('Ἀτλαντικῶν', 'the bounds of Atlas'), ('ἡγούμενος', 'counting'), ('κυσὶν', 'with his hounds'), ('χλωρὰν ὕλην', 'through the greenwood'), ('εἰς', 'at'), ('Θησέως', 'of Theseus'), ('ἀναίνεται', 'he scorns'), ('γῆς', 'in land'), ('τε', 'and'), ('πολιτῶν', 'of all the dwellers'), ('τάχα', 'soon'), ('ἔνεστι', 'in finds a home'), ('μείζω', 'too high'), ('κακίστην', 'vilest'), ('ἀλήθειαν', 'the truth'), ('χαίρουσιν', 'pleasure'), ('Διὸς', 'of Zeus'), ('δὲ', 'And'), ('ξυνὼν', 'attendant'), ('θεῶν', 'of gods'), ('παιδεύματα', 'whom taught'), ('οὐρανοῦ', "heaven ' s courts"), ('τόκος', 'born of'), ('Πιτθέως', 'Pittheus'), ('Τροζηνίας', 'of Troezen'), ('Ἱππόλυτος', 'Hippolytus'), ('λέκτρα', 'Love'), ('τόδε', 'this feeling'), ('γάμων', 'as for marriage'), ('ἀνθρώπων', 'men'), ('τιμᾷ', 'he doth honour'), ('γάρ', 'for'), ('δὴ', 'even'), ('με', 'me'), ('χθονός', 'the earth'), ('γένει', 'the race'), ('δαιμόνων', 'of goddesses'), ('πρεσβεύω', 'I advance to honour'), ('βροτείας', 'for mortal ken'), ('παρθένῳ', 'on his virgin goddess'), ('κοὐ', 'none'), ('ὅσοι', 'all who'), ('δαιμόνων', 'of the deities'), ('προσπεσὼν', 'enjoying'), ('Πόντου', 'of the sea'), ('ταχείαις', 'fleet'), ('τιμώμενοι', 'at the honour'), ('Ἀμαζόνος', 'the Amazon'), ('βροτοῖσι', 'man'), ('σέβοντας', 'respect'), ('εἴσω', 'within'), ('ὁρῶντες', 'beholding'), ('τῶνδ᾽', 'of this'), ('τοὺς μὲν', 'those that'), ('δείξω', 'I will show'), ('Φοίβου', 'of Phoebus'), ('δ᾽', 'and'), ('λέγει', 'calls'), ('ὁ', 'that'), ('ὁμιλίας', 'the comradeship of one'), ('κέκλημαι', 'the name that I bear'), ('ἡλίου', "sun-god ' s"), ('φρονοῦσιν μέγα', 'vaunt themselves'), ('σφάλλω', 'bring to ruin'), ('Πολλὴ', 'Wide'), ('ἔσω', 'in'), ('τερμόνων', 'the limits'), ('Κύπρις', 'Cypris'), ('ἐν', "o ' er"), ('μεγίστην', 'her the chief')}
+
+=====================================
+
+
+length(31124): 80
+length(31128): 81
+
+
+Intersection (12):
+------------------
+
+{('ἐν', 'among'), ('ἡμᾶς', 'me'), ('ὁ Ἱππόλυτος', 'Hippolytus'), ('κράτη', 'power'), ('Πιτθέως', 'by Pittheus'), ('τἀμὰ', 'my'), ('Ἄρτεμιν', 'Artemis'), ('Φοίβου', 'Apollo’s'), ('με', 'I'), ('τ᾽', 'and'), ('ἀδελφὴν', 'sister'), ('κόρην', 'daughter')}
+
+
+TPs in 31124 not in 31128 (68):
+------------------
+
+{('ἐξαιρεῖ', 'sending away'), ('θεῶν', 'gods'), ('βροτοῖσι', 'the mortals'), ('ἡγούμενος', 'He thinks'), ('ἀναίνεται', 'go anywhere near'), ('δαιμόνων', 'of all the goddesses'), ('χαίρουσιν', 'enjoy'), ('σφάλλω', 'I crush and destroy'), ('παῖς', 'that child'), ('θῆρας', 'all the wild beasts'), ('τοὺς μὲν', 'all those of them who'), ('Ἀτλαντικῶν', 'the great Pillars of Atlas'), ('ναίουσιν', 'who live'), ('δ᾽', 'But'), ('δαιμόνων', 'of all the gods'), ('ὅσοι', 'those mortals who'), ('ὁμιλίας', 'relationship'), ('οὐρανοῦ', 'the heavens'), ('δ᾽', 'Instead'), ('Διὸς', 'Zeus’'), ('χλωρὰν', 'plush'), ('μύθων', 'I say'), ('τ᾽', 'as well as'), ('κοὐ ψαύει γάμων', 'will neither marry anyone'), ('μόνος', 'is the only one who'), ('Πόντου', 'the Black Sea'), ('μείζω', 'such a close'), ('Θησέως', 'by the seed of Theseus'), ('τερμόνων', 'the very edges'), ('βροτείας', 'A mortal'), ('φῶς', 'the light'), ('προσπεσὼν', 'being in'), ('Τροζηνίας', 'of Troezen'), ('λέκτρα', 'the bed of love'), ('ἀεὶ', 'all day'), ('τιμώμενοι', 'being revered'), ('ἔσω', 'throughout'), ('ξυνὼν', 'go roaming together'), ('ὁρῶντες', 'look upon'), ('κέκλημαι', 'called'), ('κυσὶν', 'hunting dogs'), ('τῶνδ᾽', 'So'), ('φρονοῦσιν μέγα', 'treat with disrespect'), ('Ἀμαζόνος', 'of the Amazon'), ('παρθένῳ', 'his little virgin deity'), ('εἴσω', 'between'), ('ὅσοι', 'those of them who'), ('ὕπο', 'by'), ('μεγίστην', 'by far the greater'), ('δείξω', 'I shall prove'), ('σέβοντας', 'respect'), ('λέγει', 'He says that'), ('ἁγνοῦ', 'that pure man'), ('τάχα', 'very shortly'), ('ὕλην', 'about the forest'), ('θεὰ', 'A goddess'), ('τιμᾷ', 'he reveres'), ('γάρ', 'You see'), ('ἀνθρώπων', 'the mortals'), ('πεφυκέναι', 'am'), ('Πολλὴ', 'great'), ('παιδεύματα', 'who was raised'), ('ἡλίου', 'of the sun'), ('πρεσβεύω', 'I respect them'), ('κακίστην', 'the worst'), ('ταχείαις', 'great'), ('ἔνεστι', 'It’s part'), ('Κύπρις', 'Cypris')}
+
+
+TPs in 31128 not in 31124 (69):
+------------------
+
+{('σφάλλω', 'I strike down'), ('Ἀτλαντικῶν', 'the Pillars of Atlas'), ('ὁρῶντες', 'gaze upon'), ('ὕλην', 'in forests'), ('δείξω', 'I will demonstrate'), ('ἡγούμενος', 'believing'), ('δ᾽', 'but'), ('γὰρ', 'For'), ('ὅσοι', 'all those who'), ('γένει', 'the family'), ('ταχείαις', 'swift'), ('τάχα', 'soon'), ('ναίουσιν', 'inhabit'), ('παρθένῳ', 'that virgin goddess'), ('τιμώμενοι', 'from those honours'), ('Τροζηνίας', 'in Troezen'), ('Ἀμαζόνος', 'an Amazon'), ('χθονός', 'the land'), ('τοὺς μὲν', 'those who'), ('βροτοῖσι', 'all mortal men'), ('ξυνὼν', 'in the company of'), ('κέκλημαι', 'call me'), ('τερμόνων', 'regions between'), ('δαιμόνων', 'of all divinities'), ('κοὐκ ἀνώνυμος', 'celebrated'), ('λέγει', 'claims that'), ('μείζω', 'too close'), ('ἀνθρώπων', 'human beings'), ('οὐρανοῦ', 'in heaven'), ('προσπεσὼν', 'The two enjoy'), ('σέβοντας', 'give due respect'), ('θεῶν', 'of gods'), ('χαίρουσιν', 'get great delight'), ('πεφυκέναι', 'by nature am'), ('ψαύει', 'turns his back on any thought'), ('Διὸς', 'Zeus’s'), ('φρονοῦσιν μέγα', 'stuffed with pride'), ('Πολλὴ', 'powerful'), ('παῖς', 'a son'), ('Κύπρις', 'Aphrodite'), ('τῆσδε', 'here'), ('ὁμιλίας', 'a close relationship'), ('θῆρας', 'wild creatures'), ('κακίστην', 'the most despicable'), ('γάμων', 'of marriage'), ('τιμᾷ', 'worships'), ('χλωρὰν', 'green'), ('Πόντου', 'the Euxine Sea'), ('ἀεὶ', 'always'), ('μεγίστην', 'her the greatest'), ('ἀναίνεται', 'He refuses'), ('βροτείας', 'for any mortal'), ('ἐξαιρεῖ', 'scouring for'), ('πρεσβεύω', 'I look with favour on'), ('ἔνεστι', 'shares'), ('θεὰ', 'a goddess'), ('δ᾽', 'and'), ('κυσὶν', 'with his hunting dogs'), ('τόδε', 'this attribute—they'), ('γάρ', 'For'), ('παιδεύματα', 'a student trained'), ('ὅσοι', 'all people who'), ('τῶνδ᾽', 'this'), ('ἁγνοῦ', 'pious'), ('Θησέως', 'Theseus'), ('ἀλήθειαν', 'That is true'), ('φῶς ἡλίου', 'the sunlight'), ('μόνος', 'is the only person who'), ('λέκτρα', 'bed')}
+
+=====================================
+
+
+length(31124): 80
+length(31126): 91
+
+
+Intersection (11):
+------------------
+
+{('σέβοντας', 'respect'), ('ἡμᾶς', 'me'), ('κράτη', 'power'), ('φῶς', 'the light'), ('τἀμὰ', 'my'), ('Ἄρτεμιν', 'Artemis'), ('Τροζηνίας', 'of Troezen'), ('κόρην', 'daughter'), ('τ᾽', 'and'), ('Κύπρις', 'Cypris'), ('ἀδελφὴν', 'sister')}
+
+
+TPs in 31124 not in 31126 (69):
+------------------
+
+{('ἐξαιρεῖ', 'sending away'), ('ἐν', 'among'), ('θεῶν', 'gods'), ('βροτοῖσι', 'the mortals'), ('ἡγούμενος', 'He thinks'), ('ἀναίνεται', 'go anywhere near'), ('δαιμόνων', 'of all the goddesses'), ('χαίρουσιν', 'enjoy'), ('σφάλλω', 'I crush and destroy'), ('παῖς', 'that child'), ('Φοίβου', 'Apollo’s'), ('θῆρας', 'all the wild beasts'), ('τοὺς μὲν', 'all those of them who'), ('Ἀτλαντικῶν', 'the great Pillars of Atlas'), ('ναίουσιν', 'who live'), ('δ᾽', 'But'), ('δαιμόνων', 'of all the gods'), ('ὅσοι', 'those mortals who'), ('ὁμιλίας', 'relationship'), ('οὐρανοῦ', 'the heavens'), ('δ᾽', 'Instead'), ('Διὸς', 'Zeus’'), ('χλωρὰν', 'plush'), ('μύθων', 'I say'), ('τ᾽', 'as well as'), ('κοὐ ψαύει γάμων', 'will neither marry anyone'), ('μόνος', 'is the only one who'), ('Πόντου', 'the Black Sea'), ('μείζω', 'such a close'), ('Θησέως', 'by the seed of Theseus'), ('τερμόνων', 'the very edges'), ('βροτείας', 'A mortal'), ('προσπεσὼν', 'being in'), ('λέκτρα', 'the bed of love'), ('ἀεὶ', 'all day'), ('τιμώμενοι', 'being revered'), ('ἔσω', 'throughout'), ('ξυνὼν', 'go roaming together'), ('ὁ Ἱππόλυτος', 'Hippolytus'), ('ὁρῶντες', 'look upon'), ('κέκλημαι', 'called'), ('κυσὶν', 'hunting dogs'), ('τῶνδ᾽', 'So'), ('φρονοῦσιν μέγα', 'treat with disrespect'), ('Ἀμαζόνος', 'of the Amazon'), ('παρθένῳ', 'his little virgin deity'), ('εἴσω', 'between'), ('ὅσοι', 'those of them who'), ('ὕπο', 'by'), ('μεγίστην', 'by far the greater'), ('δείξω', 'I shall prove'), ('με', 'I'), ('λέγει', 'He says that'), ('ἁγνοῦ', 'that pure man'), ('τάχα', 'very shortly'), ('ὕλην', 'about the forest'), ('θεὰ', 'A goddess'), ('τιμᾷ', 'he reveres'), ('γάρ', 'You see'), ('ἀνθρώπων', 'the mortals'), ('πεφυκέναι', 'am'), ('Πολλὴ', 'great'), ('παιδεύματα', 'who was raised'), ('ἡλίου', 'of the sun'), ('Πιτθέως', 'by Pittheus'), ('κακίστην', 'the worst'), ('ταχείαις', 'great'), ('πρεσβεύω', 'I respect them'), ('ἔνεστι', 'It’s part')}
+
+
+TPs in 31126 not in 31124 (79):
+------------------
+
+{('κυσὶν', 'with his hounds'), ('ἐξαιρεῖ', 'he clears of'), ('ἀναίνεται', 'he scorns'), ('ἀεὶ', 'ever'), ('πολιτῶν', 'of all the dwellers'), ('μείζω', 'too high'), ('κακίστην', 'vilest'), ('παιδεύματα', 'whom taught'), ('τόκος', 'born of'), ('τιμᾷ', 'he doth honour'), ('χθονός', 'the earth'), ('δαιμόνων', 'of goddesses'), ('θῆρας', 'wild beasts'), ('Ἀμαζόνος', 'the Amazon'), ('δ᾽', 'and'), ('θεὰ', 'the goddess'), ('κέκλημαι', 'the name that I bear'), ('ἡλίου', "sun-god ' s"), ('ἔσω', 'in'), ('ἐν', "o ' er"), ('Ἀτλαντικῶν', 'the bounds of Atlas'), ('χλωρὰν ὕλην', 'through the greenwood'), ('δ᾽', 'but'), ('γὰρ', 'For'), ('ὅσοι', 'all those who'), ('ἀλήθειαν', 'the truth'), ('χαίρουσιν', 'pleasure'), ('οὐρανοῦ', "heaven ' s courts"), ('με', 'me'), ('γένει', 'the race'), ('πρεσβεύω', 'I advance to honour'), ('μόνος', 'alone'), ('παρθένῳ', 'on his virgin goddess'), ('προσπεσὼν', 'enjoying'), ('εἴσω', 'within'), ('Φοίβου', 'of Phoebus'), ('λέγει', 'calls'), ('ὁ', 'that'), ('ὁμιλίας', 'the comradeship of one'), ('ἀνθρώπων', 'men'), ('μεγίστην', 'her the chief'), ('ἡγούμενος', 'counting'), ('Θησέως', 'of Theseus'), ('γῆς', 'in land'), ('ἔνεστι', 'in finds a home'), ('Διὸς', 'of Zeus'), ('ξυνὼν', 'attendant'), ('Ἱππόλυτος', 'Hippolytus'), ('τόδε', 'this feeling'), ('γάμων', 'as for marriage'), ('γάρ', 'for'), ('ὁρῶντες', 'beholding'), ('τῶνδ᾽', 'of this'), ('δείξω', 'I will show'), ('φρονοῦσιν μέγα', 'vaunt themselves'), ('σφάλλω', 'bring to ruin'), ('τερμόνων', 'the limits'), ('παῖς', 'son'), ('εἰς', 'at'), ('τε', 'and'), ('τάχα', 'soon'), ('δὲ', 'And'), ('θεῶν', 'of gods'), ('Πιτθέως', 'Pittheus'), ('λέκτρα', 'Love'), ('δὴ', 'even'), ('ἁγνοῦ', 'holy'), ('ναίουσιν', 'dwell'), ('βροτείας', 'for mortal ken'), ('κοὐ', 'none'), ('ὅσοι', 'all who'), ('δαιμόνων', 'of the deities'), ('Πόντου', 'of the sea'), ('ταχείαις', 'fleet'), ('τιμώμενοι', 'at the honour'), ('βροτοῖσι', 'man'), ('τῆσδε', 'this'), ('τοὺς μὲν', 'those that'), ('Πολλὴ', 'Wide')}
+
+=====================================
+
+
+length(31128): 81
+length(31126): 91
+
+
+Intersection (13):
+------------------
+
+{('ἡμᾶς', 'me'), ('κράτη', 'power'), ('δ᾽', 'and'), ('δ᾽', 'but'), ('γὰρ', 'For'), ('τἀμὰ', 'my'), ('Ἄρτεμιν', 'Artemis'), ('ὅσοι', 'all those who'), ('θεῶν', 'of gods'), ('τάχα', 'soon'), ('κόρην', 'daughter'), ('τ᾽', 'and'), ('ἀδελφὴν', 'sister')}
+
+
+TPs in 31128 not in 31126 (68):
+------------------
+
+{('σφάλλω', 'I strike down'), ('ἐν', 'among'), ('Ἀτλαντικῶν', 'the Pillars of Atlas'), ('ὁρῶντες', 'gaze upon'), ('ὕλην', 'in forests'), ('δείξω', 'I will demonstrate'), ('ἡγούμενος', 'believing'), ('ταχείαις', 'swift'), ('γένει', 'the family'), ('Φοίβου', 'Apollo’s'), ('ναίουσιν', 'inhabit'), ('παρθένῳ', 'that virgin goddess'), ('τιμώμενοι', 'from those honours'), ('Τροζηνίας', 'in Troezen'), ('Ἀμαζόνος', 'an Amazon'), ('χθονός', 'the land'), ('τοὺς μὲν', 'those who'), ('βροτοῖσι', 'all mortal men'), ('Θησέως', 'Theseus'), ('ξυνὼν', 'in the company of'), ('κέκλημαι', 'call me'), ('τερμόνων', 'regions between'), ('δαιμόνων', 'of all divinities'), ('κοὐκ ἀνώνυμος', 'celebrated'), ('λέγει', 'claims that'), ('μείζω', 'too close'), ('ἀνθρώπων', 'human beings'), ('οὐρανοῦ', 'in heaven'), ('προσπεσὼν', 'The two enjoy'), ('σέβοντας', 'give due respect'), ('χαίρουσιν', 'get great delight'), ('πεφυκέναι', 'by nature am'), ('ψαύει', 'turns his back on any thought'), ('Διὸς', 'Zeus’s'), ('φρονοῦσιν μέγα', 'stuffed with pride'), ('Πολλὴ', 'powerful'), ('παῖς', 'a son'), ('Κύπρις', 'Aphrodite'), ('τῆσδε', 'here'), ('ὁ Ἱππόλυτος', 'Hippolytus'), ('ὁμιλίας', 'a close relationship'), ('θῆρας', 'wild creatures'), ('κακίστην', 'the most despicable'), ('γάμων', 'of marriage'), ('τιμᾷ', 'worships'), ('χλωρὰν', 'green'), ('Πόντου', 'the Euxine Sea'), ('ἀεὶ', 'always'), ('με', 'I'), ('μεγίστην', 'her the greatest'), ('ἀναίνεται', 'He refuses'), ('βροτείας', 'for any mortal'), ('ἐξαιρεῖ', 'scouring for'), ('πρεσβεύω', 'I look with favour on'), ('ἔνεστι', 'shares'), ('θεὰ', 'a goddess'), ('κυσὶν', 'with his hunting dogs'), ('γάρ', 'For'), ('τόδε', 'this attribute—they'), ('παιδεύματα', 'a student trained'), ('ὅσοι', 'all people who'), ('τῶνδ᾽', 'this'), ('ἁγνοῦ', 'pious'), ('Πιτθέως', 'by Pittheus'), ('ἀλήθειαν', 'That is true'), ('φῶς ἡλίου', 'the sunlight'), ('μόνος', 'is the only person who'), ('λέκτρα', 'bed')}
+
+
+TPs in 31126 not in 31128 (77):
+------------------
+
+{('κυσὶν', 'with his hounds'), ('ἐξαιρεῖ', 'he clears of'), ('ἀναίνεται', 'he scorns'), ('ἀεὶ', 'ever'), ('πολιτῶν', 'of all the dwellers'), ('μείζω', 'too high'), ('κακίστην', 'vilest'), ('παιδεύματα', 'whom taught'), ('τόκος', 'born of'), ('τιμᾷ', 'he doth honour'), ('χθονός', 'the earth'), ('δαιμόνων', 'of goddesses'), ('θῆρας', 'wild beasts'), ('Ἀμαζόνος', 'the Amazon'), ('θεὰ', 'the goddess'), ('κέκλημαι', 'the name that I bear'), ('ἡλίου', "sun-god ' s"), ('ἔσω', 'in'), ('ἐν', "o ' er"), ('Ἀτλαντικῶν', 'the bounds of Atlas'), ('χλωρὰν ὕλην', 'through the greenwood'), ('ἀλήθειαν', 'the truth'), ('χαίρουσιν', 'pleasure'), ('οὐρανοῦ', "heaven ' s courts"), ('με', 'me'), ('γένει', 'the race'), ('πρεσβεύω', 'I advance to honour'), ('μόνος', 'alone'), ('παρθένῳ', 'on his virgin goddess'), ('προσπεσὼν', 'enjoying'), ('εἴσω', 'within'), ('Φοίβου', 'of Phoebus'), ('λέγει', 'calls'), ('ὁ', 'that'), ('ὁμιλίας', 'the comradeship of one'), ('ἀνθρώπων', 'men'), ('μεγίστην', 'her the chief'), ('ἡγούμενος', 'counting'), ('Θησέως', 'of Theseus'), ('γῆς', 'in land'), ('ἔνεστι', 'in finds a home'), ('Διὸς', 'of Zeus'), ('ξυνὼν', 'attendant'), ('Ἱππόλυτος', 'Hippolytus'), ('τόδε', 'this feeling'), ('γάμων', 'as for marriage'), ('γάρ', 'for'), ('ὁρῶντες', 'beholding'), ('τῶνδ᾽', 'of this'), ('δείξω', 'I will show'), ('φρονοῦσιν μέγα', 'vaunt themselves'), ('σφάλλω', 'bring to ruin'), ('τερμόνων', 'the limits'), ('Κύπρις', 'Cypris'), ('παῖς', 'son'), ('εἰς', 'at'), ('τε', 'and'), ('δὲ', 'And'), ('φῶς', 'the light'), ('Πιτθέως', 'Pittheus'), ('Τροζηνίας', 'of Troezen'), ('λέκτρα', 'Love'), ('δὴ', 'even'), ('ἁγνοῦ', 'holy'), ('ναίουσιν', 'dwell'), ('βροτείας', 'for mortal ken'), ('κοὐ', 'none'), ('ὅσοι', 'all who'), ('δαιμόνων', 'of the deities'), ('Πόντου', 'of the sea'), ('ταχείαις', 'fleet'), ('τιμώμενοι', 'at the honour'), ('βροτοῖσι', 'man'), ('σέβοντας', 'respect'), ('τῆσδε', 'this'), ('τοὺς μὲν', 'those that'), ('Πολλὴ', 'Wide')}

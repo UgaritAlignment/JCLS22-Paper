@@ -1,0 +1,176 @@
+length(31119): 96
+length(31121): 108
+length(31118): 109
+length(31120): 103
+
+# Theodoridis 31119
+Not Aligned (src): γὰρ, σοῖσιν, ἢ, βάρος, ἕκαστον, ἐλευθέροισι, μὲν, ὡς, γυνὴ, κακὸν, μέγα, γὰρ, καλὸν, καὶ, κηδεύσας, χαίρων, λαβὼν
+Not Aligned (tgt): Zeus, Woman, for, a, price, should, be, able, to, just, go, or, other, even, and, with, that, price, paid, they, want, Take, him, home, with, him, the, two, men, could, to, be, seen, anywhere, this…, And, here’s, what, I, mean, by, this, that, beast, -that, poor, man, not, only, for, her, but, also, her, husband, this…, her, husband, the, moment, he, gets, her, into, his, house, her, Fancy, clothes, vile, statue, And, there, you, see, Either, of, having, to, endure, it’s, the, other, way, around, he, gets, in, which, case, he’ll, need, to, content, himself, with, the, thought, that, of, this, marriage
+
+
+# Coleridge 31121
+Not Aligned (src): ὦ, γὰρ, βροτοὺς, ἢ, μὲν, κακίστῳ
+Not Aligned (tgt): and, and, the, husband, then
+
+
+# Kovacs 31118
+Not Aligned (src): γὰρ, σοῖσιν, μὲν, πρῶτον, γὰρ, ὥστε
+Not Aligned (tgt): women, find, that, and, and, thus, her, husband, finery, to, a, statue, Either, and, in, his, in-laws, and
+
+
+# Johnston 31120
+Not Aligned (src): γὰρ, ἢ, μὲν, καὶ, ὥστε, καλῶς, δ᾽, λαβὼν
+Not Aligned (tgt): ever, and, —, and, then, now, and, And, so, the, man, The, would-be, husband, if, his, wife, comes, from, a, worthy, family, and, of, if, are, but, is, he, can, use
+
+
+
+Intersection (7):
+------------------
+
+{('ἢ', 'or'), ('εἰ', 'If'), ('σίδηρον', 'iron'), ('ἐν', 'in'), ('τε καὶ', 'and'), ('γυναικῶν', 'women'), ('ἐς', 'into')}
+
+=====================================
+
+
+length(31119): 96
+length(31121): 108
+
+
+Intersection (13):
+------------------
+
+{('γένος', 'the race'), ('γυναῖκας', 'woman'), ('ἢ', 'or'), ('ἄξεσθαι', 'bring'), ('εἰ', 'If'), ('δ᾽', 'but'), ('ἐν', 'in'), ('σίδηρον', 'iron'), ('λέκτρα', 'a wife'), ('ἀλλ᾽', 'but'), ('γυναικῶν', 'women'), ('τε καὶ', 'and'), ('ἐς', 'into')}
+
+
+TPs in 31119 not in 31121 (79):
+------------------
+
+{('πέπλοισιν', 'with pretty clothes'), ('κακὸν', 'this evil destroyer'), ('τί δὴ', 'Why'), ('κακοῦ', 'this unbearable burden'), ('δωμάτων', 'of his estate'), ('χρυσοῦ', 'some gold'), ('σῴζεται', 'he accepts the burden'), ('κίβδηλον', 'this impure'), ('τούτῳ δὲ δῆλον', 'Here’s the clear proof of it'), ('φερνὰς', 'a dowry'), ('μέλλοντες', 'we want to'), ('σπεῖραι', 'to sow the seeds'), ('κακὸν', 'this curse'), ('αὖ', 'And then'), ('γέγηθε', 'happily'), ('χρῆν', 'you should'), ('ἀντιθέντας', 'put there'), ('δὲ', 'and there'), ('ναοῖς', 'some temple'), ('δώμασιν', 'their house'), ('ἀπαλλαχθῇ', 'he can shed from himself'), ('σπείρας', 'had begotten'), ('λέχος', 'a marriage'), ('χρηστὰ', 'great'), ('παίδων σπέρμα', 'the son'), ('τὸ δυστυχές', 'the rotten part'), ('παρασχέσθαι', 'have done'), ('πιέζει', 'cancels out'), ('κακίστῳ', 'for a worthless'), ('πενθεροὺς', 'in-laws'), ('οὐκ', 'not'), ('ὑπεξελών', 'there goes bit by little bit'), ('προσθεὶς', 'has to lay out'), ('ὄλβον', 'all the wealth'), ('πρίασθαι', 'pick themselves'), ('ναίειν', 'live out their lives'), ('προστιθεὶς', 'he begins to'), ('ἀγάλματι', 'fake statue'), ('βροτοὺς', 'Men'), ('δύστηνος', 'the other poor creature'), ('θρέψας', 'who had raised her'), ('ἀτηρὸν', 'ruinous'), ('ἐν', 'to'), ('φυτὸν', 'this beast'), ('καλῶς', 'are so good'), ('ἔχει δ᾽ ἀνάγκην', 'And then come the unavoidable choices of his constrains'), ('ὦ', 'Oh'), ('δόμους', 'his house'), ('πατὴρ', 'The woman’s father'), ('λαβὼν', 'has brought'), ('ὁ δ᾽', 'the one who'), ('θηλειῶν', 'a woman'), ('πικρὸν', 'rotten and painful'), ('ἀπῴκισ᾽', 'he must send her away'), ('τόδε', 'it'), ('ἐκτίνομεν', 'we must squander away'), ('ἀνθρώποις', 'of mortals'), ('δόμους', 'our house'), ('ὁ', 'the man who'), ('ἐκ', 'through'), ('πρῶτον', 'even before'), ('του τιμήματος τῆς ἀξίας', '–whatever their means would allow-'), ('γαμβροῖσι', 'his in-laws'), ('ὄλβον δωμάτων', 'our whole estate'), ('χαλκὸν', 'some piece of bronze'), ('ὥστε', 'that'), ('φῶς', 'the light'), ('τἀγαθῷ', 'the good part'), ('Ζεῦ', 'Zeus'), ('ἄτερ', 'without'), ('νῦν δ᾽', 'As it is now'), ('βρότειον', 'mortal'), ('ἀνωφελεῖς', 'rotten and painful'), ('κόσμον', 'decorate'), ('ἐκπονεῖ', 'He begins the little game of cajoling her'), ('κατῴκισας', 'did you bring'), ('ἤθελες', 'you wanted'), ('ἡλίου', 'of the sun'), ('ὡς', 'so')}
+
+
+TPs in 31121 not in 31119 (91):
+------------------
+
+{('αὖ', 'while'), ('πικρὸν', 'he loathes'), ('χρῆν', 'they should'), ('τἀγαθῷ', 'with the good'), ('πρίασθαι', 'bought'), ('ὑπεξελών', 'squandering by degrees'), ('τί δὴ', 'why'), ('πιέζει', 'he tries to stifle'), ('ἀνθρώποις', "to man ' s sorrow"), ('μέλλοντες', 'we would'), ('καλὸν', 'fine'), ('ναίειν', 'dwelt'), ('ἀπῴκισ᾽', 'packs her off'), ('ἡλίου', 'the sun'), ('κακὸν', 'a curse is'), ('ὁ δ᾽', 'who'), ('ἤθελες', 'thou wert minded'), ('λέχος', 'the wife'), ('γαμβροῖσι', 'connections'), ('ἐς', 'where'), ('παίδων σπέρμα', 'a family'), ('δωμάτων', "his house ' s"), ('χρηστὰ', 'good'), ('τῆς ἀξίας', 'proportioned'), ('κακὸν', 'this plague'), ('φυτὸν', 'the weed'), ('πατὴρ', 'the father'), ('λαβὼν', 'if he gets'), ('δόμους', 'our home'), ('κατῴκισας', 'didst thou put to dwell'), ('χρυσοῦ', 'gold'), ('καὶ', 'and'), ('δὲ', 'and so'), ('δόμους', 'his home'), ('ἐκπονεῖ', 'tricks her out'), ('ὄλβον', 'wealth'), ('χαλκὸν', 'bronze'), ('κακὸν', 'evil'), ('τούτῳ δὲ δῆλον', "' Tis clear from this"), ('βρότειον', 'human'), ('φῶς', 'shines'), ('πενθεροὺς', 'kin'), ('νῦν δ᾽', 'But now'), ('πέπλοισιν', 'in robes'), ('ὥστε', 'say'), ('φερνὰς', 'a dower'), ('θηλειῶν', 'women'), ('κηδεύσας', 'his marriage has brought him'), ('λαβὼν', 'takes'), ('γὰρ', 'very'), ('ὁ', 'that'), ('χαίρων', 'he is glad'), ('γέγηθε', 'fondly'), ('Ζεῦ', 'Great Zeus'), ('ὡς', 'to'), ('ἀγάλματι', 'his sorry idol'), ('παρασχέσθαι', 'have drawn'), ('ἀντιθέντας', 'they should have paid'), ('σπεῖραι', 'that should multiply'), ('ἀνωφελεῖς', 'useless'), ('ἐκ', 'from'), ('ἐκτίνομεν', 'we bring to the ground'), ('βάρος', 'ponderous'), ('μέγα', 'great'), ('κόσμον', 'in raiment'), ('προστιθεὶς', 'decks'), ('δύστηνος', 'unhappy wight'), ('ναοῖς', 'temples'), ('του τιμήματος', 'to his offering'), ('θρέψας', 'nurtured her'), ('γυνὴ', 'a woman'), ('πρῶτον', 'as soon as ever'), ('τὸ δυστυχές', 'the bad luck'), ('κίβδηλον', 'counterfeit'), ('καλῶς', 'good'), ('προσθεὶς', 'gives her'), ('ὡς', 'how'), ('ὄλβον δωμάτων', 'its fortune'), ('σπείρας', 'begot'), ('σῴζεται', 'to keep'), ('τόδε', 'their stock'), ('ἀπαλλαχθῇ', 'rid him'), ('σοῖσιν', 'thy'), ('ἕκαστον', 'each man'), ('κακοῦ', 'of the mischief'), ('οὐκ', 'it was not'), ('ἔχει δ᾽ ἀνάγκην', 'For he is in this dilemma'), ('ἄτερ', 'from'), ('ἐλευθέροισι', 'free'), ('δώμασιν', 'independence'), ('ἀτηρὸν', 'noxious')}
+
+=====================================
+
+
+length(31119): 96
+length(31118): 109
+
+
+Intersection (15):
+------------------
+
+{('γένος', 'the race'), ('ἢ', 'or'), ('πενθεροὺς', 'in-laws'), ('εἰ', 'If'), ('φερνὰς', 'a dowry'), ('ἐν', 'in'), ('σίδηρον', 'iron'), ('φῶς', 'the light'), ('λέκτρα', 'a wife'), ('ἡλίου', 'of the sun'), ('γυναικῶν', 'women'), ('τε καὶ', 'and'), ('Ζεῦ', 'Zeus'), ('ἐς', 'into'), ('δόμους', 'his house')}
+
+
+TPs in 31119 not in 31118 (77):
+------------------
+
+{('πέπλοισιν', 'with pretty clothes'), ('ἀλλ᾽', 'but'), ('κακὸν', 'this evil destroyer'), ('τί δὴ', 'Why'), ('κακοῦ', 'this unbearable burden'), ('δωμάτων', 'of his estate'), ('χρυσοῦ', 'some gold'), ('σῴζεται', 'he accepts the burden'), ('κίβδηλον', 'this impure'), ('τούτῳ δὲ δῆλον', 'Here’s the clear proof of it'), ('μέλλοντες', 'we want to'), ('σπεῖραι', 'to sow the seeds'), ('κακὸν', 'this curse'), ('αὖ', 'And then'), ('γέγηθε', 'happily'), ('χρῆν', 'you should'), ('ἀντιθέντας', 'put there'), ('δὲ', 'and there'), ('ναοῖς', 'some temple'), ('δ᾽', 'but'), ('δώμασιν', 'their house'), ('ἀπαλλαχθῇ', 'he can shed from himself'), ('ἄξεσθαι', 'bring'), ('σπείρας', 'had begotten'), ('λέχος', 'a marriage'), ('χρηστὰ', 'great'), ('παίδων σπέρμα', 'the son'), ('τὸ δυστυχές', 'the rotten part'), ('παρασχέσθαι', 'have done'), ('πιέζει', 'cancels out'), ('κακίστῳ', 'for a worthless'), ('οὐκ', 'not'), ('ὑπεξελών', 'there goes bit by little bit'), ('προσθεὶς', 'has to lay out'), ('ὄλβον', 'all the wealth'), ('πρίασθαι', 'pick themselves'), ('ναίειν', 'live out their lives'), ('προστιθεὶς', 'he begins to'), ('ἀγάλματι', 'fake statue'), ('βροτοὺς', 'Men'), ('δύστηνος', 'the other poor creature'), ('θρέψας', 'who had raised her'), ('ἀτηρὸν', 'ruinous'), ('ἐν', 'to'), ('φυτὸν', 'this beast'), ('καλῶς', 'are so good'), ('ἔχει δ᾽ ἀνάγκην', 'And then come the unavoidable choices of his constrains'), ('ὦ', 'Oh'), ('πατὴρ', 'The woman’s father'), ('λαβὼν', 'has brought'), ('ὁ δ᾽', 'the one who'), ('θηλειῶν', 'a woman'), ('πικρὸν', 'rotten and painful'), ('ἀπῴκισ᾽', 'he must send her away'), ('τόδε', 'it'), ('ἐκτίνομεν', 'we must squander away'), ('ἀνθρώποις', 'of mortals'), ('δόμους', 'our house'), ('ὁ', 'the man who'), ('ἐκ', 'through'), ('πρῶτον', 'even before'), ('του τιμήματος τῆς ἀξίας', '–whatever their means would allow-'), ('γαμβροῖσι', 'his in-laws'), ('ὄλβον δωμάτων', 'our whole estate'), ('χαλκὸν', 'some piece of bronze'), ('ὥστε', 'that'), ('τἀγαθῷ', 'the good part'), ('ἄτερ', 'without'), ('νῦν δ᾽', 'As it is now'), ('βρότειον', 'mortal'), ('γυναῖκας', 'woman'), ('ἀνωφελεῖς', 'rotten and painful'), ('κόσμον', 'decorate'), ('ἐκπονεῖ', 'He begins the little game of cajoling her'), ('κατῴκισας', 'did you bring'), ('ἤθελες', 'you wanted'), ('ὡς', 'so')}
+
+
+TPs in 31118 not in 31119 (90):
+------------------
+
+{('γυναῖκας', 'women'), ('ὑπεξελών', 'destroying by degrees'), ('χαίρων', 'his joy'), ('τόδε', 'this'), ('φυτὸν', 'this creature'), ('τί δὴ', 'why'), ('δώμασιν', 'houses'), ('ὡς', 'that'), ('ναίειν', 'dwelt'), ('τἀγαθῷ', 'with his blessing'), ('ἢ', 'either'), ('αὖ', 'But'), ('κατῴκισας', 'have you settled'), ('ναοῖς', 'the temples'), ('ὁ δ᾽', 'who'), ('χρῆν', 'you should have'), ('πατὴρ', 'her father'), ('χρηστὰ', 'good'), ('γέγηθε', 'takes pleasure in'), ('δ᾽', 'and'), ('γυνὴ', 'woman'), ('ἀπῴκισ᾽', 'sends her off'), ('βάρος', 'a mass'), ('χρυσοῦ', 'of gold'), ('ἀγάλματι', 'to the statue'), ('ἄξεσθαι', 'take'), ('ἐς', 'unto'), ('πιέζει', 'keeps in check'), ('καὶ', 'and'), ('ἐκπονεῖ', 'tricks her out'), ('χαλκὸν', 'bronze'), ('βρότειον', 'human'), ('ἀντιθέντας', 'should have put down'), ('λαβὼν', 'has taken'), ('του τιμήματος', 'to his means'), ('κακὸν', 'a bane'), ('τὸ δυστυχές', 'his unhappiness'), ('δωμάτων', 'of our homes'), ('θηλειῶν', 'the female sex'), ('ἐκτίνομεν', 'we pay out'), ('σῴζεται', 'makes him preserve'), ('κηδεύσας', 'a man makes'), ('ὦ', 'O'), ('ἀτηρὸν', 'of ruin'), ('κακὸν', 'is a bane'), ('ἔχει δ᾽ ἀνάγκην', 'There is a fatal necessity'), ('ὄλβον', 'the wealth'), ('ὡς', 'in order to'), ('νῦν δ᾽', 'But as matters stand'), ('δύστηνος', 'wretch that he is'), ('τῆς ἀξίας', 'for a price corresponding'), ('σπεῖραι', 'to propagate'), ('μέλλοντες', 'when we are about to'), ('κακίστῳ', 'most worthless'), ('ἐκ', 'from'), ('λέχος', 'a marriage-relation'), ('ἀπαλλαχθῇ', 'be quit'), ('κόσμον', 'finery'), ('πικρὸν', 'that gives him pain'), ('καλὸν', 'lovely'), ('ἀνωφελεῖς', 'bad'), ('πέπλοισιν', 'with garments'), ('μέγα', 'great'), ('πρίασθαι', 'have bought'), ('βροτοὺς', 'men'), ('παρασχέσθαι', 'given us'), ('κίβδηλον', 'counterfeit'), ('προσθεὶς', 'adds to her'), ('δὲ', 'and then'), ('κακοῦ', 'of a trouble'), ('καλῶς', 'good'), ('ὁ', 'who'), ('ἀλλ᾽', 'Rather'), ('κακὸν', 'this bane'), ('ἀνθρώποις', 'mankind'), ('ἐς', 'in'), ('ἤθελες', 'you wished'), ('προστιθεὶς', 'adding'), ('δόμους', 'ourselves'), ('τούτῳ δὲ δῆλον', 'The clear proof is this'), ('ἕκαστον', 'each man'), ('λαβὼν', 'he gets'), ('οὐκ', 'it was not'), ('ἄτερ', 'from'), ('παίδων σπέρμα', 'offspring'), ('ἐλευθέροισι', 'free'), ('γαμβροῖσι', 'a connection by marriage'), ('σπείρας', 'begat her'), ('δωμάτων', 'of his house'), ('θρέψας', 'raised her')}
+
+=====================================
+
+
+length(31119): 96
+length(31120): 103
+
+
+Intersection (13):
+------------------
+
+{('χρῆν', 'you should'), ('παρασχέσθαι', 'have done'), ('ἢ', 'or'), ('εἰ', 'If'), ('φερνὰς', 'a dowry'), ('οὐκ', 'not'), ('ἐν', 'in'), ('σίδηρον', 'iron'), ('ἤθελες', 'you wanted'), ('γυναικῶν', 'women'), ('τε καὶ', 'and'), ('Ζεῦ', 'Zeus'), ('ἐς', 'into')}
+
+
+TPs in 31119 not in 31120 (79):
+------------------
+
+{('πέπλοισιν', 'with pretty clothes'), ('ἀλλ᾽', 'but'), ('κακὸν', 'this evil destroyer'), ('τί δὴ', 'Why'), ('κακοῦ', 'this unbearable burden'), ('δωμάτων', 'of his estate'), ('χρυσοῦ', 'some gold'), ('σῴζεται', 'he accepts the burden'), ('κίβδηλον', 'this impure'), ('τούτῳ δὲ δῆλον', 'Here’s the clear proof of it'), ('μέλλοντες', 'we want to'), ('σπεῖραι', 'to sow the seeds'), ('κακὸν', 'this curse'), ('αὖ', 'And then'), ('γέγηθε', 'happily'), ('ἀντιθέντας', 'put there'), ('δὲ', 'and there'), ('ναοῖς', 'some temple'), ('δ᾽', 'but'), ('δώμασιν', 'their house'), ('ἀπαλλαχθῇ', 'he can shed from himself'), ('γένος', 'the race'), ('ἄξεσθαι', 'bring'), ('σπείρας', 'had begotten'), ('λέχος', 'a marriage'), ('χρηστὰ', 'great'), ('παίδων σπέρμα', 'the son'), ('τὸ δυστυχές', 'the rotten part'), ('πιέζει', 'cancels out'), ('κακίστῳ', 'for a worthless'), ('πενθεροὺς', 'in-laws'), ('ὑπεξελών', 'there goes bit by little bit'), ('προσθεὶς', 'has to lay out'), ('ὄλβον', 'all the wealth'), ('πρίασθαι', 'pick themselves'), ('ναίειν', 'live out their lives'), ('προστιθεὶς', 'he begins to'), ('ἀγάλματι', 'fake statue'), ('βροτοὺς', 'Men'), ('δύστηνος', 'the other poor creature'), ('λέκτρα', 'a wife'), ('θρέψας', 'who had raised her'), ('ἀτηρὸν', 'ruinous'), ('ἐν', 'to'), ('φυτὸν', 'this beast'), ('καλῶς', 'are so good'), ('ἔχει δ᾽ ἀνάγκην', 'And then come the unavoidable choices of his constrains'), ('ὦ', 'Oh'), ('δόμους', 'his house'), ('πατὴρ', 'The woman’s father'), ('λαβὼν', 'has brought'), ('ὁ δ᾽', 'the one who'), ('θηλειῶν', 'a woman'), ('πικρὸν', 'rotten and painful'), ('ἀπῴκισ᾽', 'he must send her away'), ('τόδε', 'it'), ('ἐκτίνομεν', 'we must squander away'), ('ἀνθρώποις', 'of mortals'), ('δόμους', 'our house'), ('ὁ', 'the man who'), ('ἐκ', 'through'), ('πρῶτον', 'even before'), ('του τιμήματος τῆς ἀξίας', '–whatever their means would allow-'), ('γαμβροῖσι', 'his in-laws'), ('ὄλβον δωμάτων', 'our whole estate'), ('χαλκὸν', 'some piece of bronze'), ('ὥστε', 'that'), ('φῶς', 'the light'), ('τἀγαθῷ', 'the good part'), ('ἄτερ', 'without'), ('νῦν δ᾽', 'As it is now'), ('βρότειον', 'mortal'), ('γυναῖκας', 'woman'), ('ἀνωφελεῖς', 'rotten and painful'), ('κόσμον', 'decorate'), ('ἐκπονεῖ', 'He begins the little game of cajoling her'), ('κατῴκισας', 'did you bring'), ('ἡλίου', 'of the sun'), ('ὡς', 'so')}
+
+
+TPs in 31120 not in 31119 (89):
+------------------
+
+{('βρότειον', 'of human beings'), ('γυναῖκας', 'women'), ('πικρὸν', 'he finds distasteful'), ('φυτὸν', 'this creature'), ('ὡς', 'just how'), ('τί δὴ', 'why'), ('ἀλλ᾽', 'Instead of that'), ('ἀτηρὸν', 'toxic'), ('αὖ', 'But'), ('ἐκ', 'using'), ('ἀπαλλαχθῇ', 'rid himself'), ('φῶς ἡλίου', 'our sunlit world'), ('ἄξεσθαι', 'have'), ('ἢ', 'or else'), ('ὑπεξελών', 'little by little wastes'), ('χρηστὰ', 'good'), ('κακίστῳ', 'for a brainless figurine'), ('ὁ δ᾽', 'the man who'), ('ναίειν', 'they could have lived'), ('μέγα', 'big'), ('γαμβροῖσι', 'from his in-laws'), ('γυνὴ', 'woman'), ('κόσμον', 'with ornaments'), ('χρυσοῦ', 'of gold'), ('πατὴρ', 'the father'), ('ἐς δόμους', 'live with us'), ('σπείρας', 'conceived'), ('δώμασιν', 'their own homes'), ('ἀνωφελεῖς', 'malicious'), ('πρῶτον', 'first of all'), ('δόμους', 'his home'), ('σοῖσιν', 'your'), ('δύστηνος', 'poor miserable wretch'), ('χαλκὸν', 'bronze'), ('λέχος', 'a marriage bond'), ('δωμάτων', 'family'), ('του τιμήματος', 'to his means'), ('βάρος', 'a load'), ('γέγηθε', 'can get his delight'), ('προστιθεὶς', 'embellishing'), ('ὦ', 'O'), ('ἀπῴκισ᾽', 'ships her off'), ('κακοῦ', 'of trouble'), ('λαβὼν', 'takes'), ('προσθεὶς', 'pays out'), ('ὄλβον', 'his wealth'), ('γένος', 'a race'), ('ὄλβον', 'the wealth'), ('ἐκτίνομεν', 'we must produce a bride price from'), ('ὡς', 'in order to'), ('κίβδηλον κακὸν', 'with their corrupting ways'), ('ἀνθρώποις', 'to lead men astray'), ('σπεῖραι', 'to propagate'), ('ἐν', 'into'), ('λέκτρα', 'his wife'), ('ναοῖς', 'holy shrines'), ('τὸ δυστυχές', 'his sense of discontent'), ('ἔχει δ᾽ ἀνάγκην', 'has a fatal choice'), ('νῦν δ᾽', 'But as it is'), ('πενθεροὺς', 'his in-laws'), ('ἄτερ', 'free'), ('βροτοὺς', 'men'), ('τούτῳ δὲ δῆλον', 'What’s more there is clear evidence to show'), ('πιέζει', 'to neutralize'), ('ἐκπονεῖ', 'decorating her'), ('δὲ', 'and then'), ('σῴζεται', 'let that compensate him for the pain'), ('γὰρ', 'since'), ('ὁ', 'who'), ('τόδε', 'so'), ('κηδεύσας χαίρων', 'he can get some pleasure'), ('τἀγαθῷ', 'that good'), ('ἐς', 'in'), ('κακὸν', 'a problem can be'), ('μέλλοντες', 'when we are planning to'), ('πέπλοισιν', 'with fancy clothes'), ('πρίασθαι', 'purchased'), ('ἕκαστον', 'each man'), ('δωμάτων', 'of our estate'), ('τῆς ἀξίας', 'paying according'), ('ἐλευθέροισι', 'as free men'), ('καλὸν', 'lovely objects'), ('ἀγάλματι', 'his idol'), ('παίδων σπέρμα', 'offspring'), ('κατῴκισας', 'did you set'), ('κακὸν', 'this evil'), ('θηλειῶν', 'of women'), ('θρέψας', 'raised her'), ('ἀντιθέντας', 'could have carried')}
+
+=====================================
+
+
+length(31121): 108
+length(31118): 109
+
+
+Intersection (25):
+------------------
+
+{('καὶ', 'and'), ('ἐκ', 'from'), ('τί δὴ', 'why'), ('γένος', 'the race'), ('ἐκπονεῖ', 'tricks her out'), ('χαλκὸν', 'bronze'), ('λέκτρα', 'a wife'), ('ἕκαστον', 'each man'), ('ναίειν', 'dwelt'), ('βρότειον', 'human'), ('ἐν', 'in'), ('γυναικῶν', 'women'), ('οὐκ', 'it was not'), ('μέγα', 'great'), ('ὁ δ᾽', 'who'), ('εἰ', 'If'), ('ἄτερ', 'from'), ('χρηστὰ', 'good'), ('ἐλευθέροισι', 'free'), ('κίβδηλον', 'counterfeit'), ('ἢ', 'or'), ('σίδηρον', 'iron'), ('καλῶς', 'good'), ('τε καὶ', 'and'), ('ἐς', 'into')}
+
+
+TPs in 31121 not in 31118 (79):
+------------------
+
+{('αὖ', 'while'), ('πικρὸν', 'he loathes'), ('χρῆν', 'they should'), ('τἀγαθῷ', 'with the good'), ('πρίασθαι', 'bought'), ('ὑπεξελών', 'squandering by degrees'), ('ἀλλ᾽', 'but'), ('πιέζει', 'he tries to stifle'), ('ἀνθρώποις', "to man ' s sorrow"), ('μέλλοντες', 'we would'), ('καλὸν', 'fine'), ('ἀπῴκισ᾽', 'packs her off'), ('ἡλίου', 'the sun'), ('κακὸν', 'a curse is'), ('ἤθελες', 'thou wert minded'), ('λέχος', 'the wife'), ('γαμβροῖσι', 'connections'), ('ἐς', 'where'), ('παίδων σπέρμα', 'a family'), ('δωμάτων', "his house ' s"), ('τῆς ἀξίας', 'proportioned'), ('κακὸν', 'this plague'), ('φυτὸν', 'the weed'), ('πατὴρ', 'the father'), ('δ᾽', 'but'), ('λαβὼν', 'if he gets'), ('δόμους', 'our home'), ('κατῴκισας', 'didst thou put to dwell'), ('χρυσοῦ', 'gold'), ('δὲ', 'and so'), ('δόμους', 'his home'), ('ὄλβον', 'wealth'), ('ἄξεσθαι', 'bring'), ('κακὸν', 'evil'), ('τούτῳ δὲ δῆλον', "' Tis clear from this"), ('φῶς', 'shines'), ('πενθεροὺς', 'kin'), ('νῦν δ᾽', 'But now'), ('πέπλοισιν', 'in robes'), ('ὥστε', 'say'), ('φερνὰς', 'a dower'), ('θηλειῶν', 'women'), ('κηδεύσας', 'his marriage has brought him'), ('λαβὼν', 'takes'), ('γὰρ', 'very'), ('ὁ', 'that'), ('χαίρων', 'he is glad'), ('γέγηθε', 'fondly'), ('Ζεῦ', 'Great Zeus'), ('ὡς', 'to'), ('ἀγάλματι', 'his sorry idol'), ('παρασχέσθαι', 'have drawn'), ('ἀντιθέντας', 'they should have paid'), ('σπεῖραι', 'that should multiply'), ('ἀνωφελεῖς', 'useless'), ('ἐκτίνομεν', 'we bring to the ground'), ('βάρος', 'ponderous'), ('κόσμον', 'in raiment'), ('προστιθεὶς', 'decks'), ('δύστηνος', 'unhappy wight'), ('ναοῖς', 'temples'), ('του τιμήματος', 'to his offering'), ('θρέψας', 'nurtured her'), ('γυνὴ', 'a woman'), ('πρῶτον', 'as soon as ever'), ('τὸ δυστυχές', 'the bad luck'), ('προσθεὶς', 'gives her'), ('ὡς', 'how'), ('ὄλβον δωμάτων', 'its fortune'), ('σπείρας', 'begot'), ('σῴζεται', 'to keep'), ('τόδε', 'their stock'), ('ἀπαλλαχθῇ', 'rid him'), ('σοῖσιν', 'thy'), ('κακοῦ', 'of the mischief'), ('γυναῖκας', 'woman'), ('ἔχει δ᾽ ἀνάγκην', 'For he is in this dilemma'), ('δώμασιν', 'independence'), ('ἀτηρὸν', 'noxious')}
+
+
+TPs in 31118 not in 31121 (80):
+------------------
+
+{('γυναῖκας', 'women'), ('ὑπεξελών', 'destroying by degrees'), ('χαίρων', 'his joy'), ('τόδε', 'this'), ('φυτὸν', 'this creature'), ('δώμασιν', 'houses'), ('ὡς', 'that'), ('τἀγαθῷ', 'with his blessing'), ('ἢ', 'either'), ('αὖ', 'But'), ('κατῴκισας', 'have you settled'), ('ναοῖς', 'the temples'), ('χρῆν', 'you should have'), ('φερνὰς', 'a dowry'), ('πατὴρ', 'her father'), ('γέγηθε', 'takes pleasure in'), ('δ᾽', 'and'), ('γυνὴ', 'woman'), ('ἀπῴκισ᾽', 'sends her off'), ('βάρος', 'a mass'), ('χρυσοῦ', 'of gold'), ('ἀγάλματι', 'to the statue'), ('ἄξεσθαι', 'take'), ('ἐς', 'unto'), ('πιέζει', 'keeps in check'), ('ἀντιθέντας', 'should have put down'), ('λαβὼν', 'has taken'), ('του τιμήματος', 'to his means'), ('κακὸν', 'a bane'), ('τὸ δυστυχές', 'his unhappiness'), ('δωμάτων', 'of our homes'), ('θηλειῶν', 'the female sex'), ('ἐκτίνομεν', 'we pay out'), ('σῴζεται', 'makes him preserve'), ('κηδεύσας', 'a man makes'), ('ὦ', 'O'), ('πενθεροὺς', 'in-laws'), ('ἀτηρὸν', 'of ruin'), ('κακὸν', 'is a bane'), ('ἔχει δ᾽ ἀνάγκην', 'There is a fatal necessity'), ('ὄλβον', 'the wealth'), ('ὡς', 'in order to'), ('νῦν δ᾽', 'But as matters stand'), ('δύστηνος', 'wretch that he is'), ('τῆς ἀξίας', 'for a price corresponding'), ('σπεῖραι', 'to propagate'), ('μέλλοντες', 'when we are about to'), ('κακίστῳ', 'most worthless'), ('λέχος', 'a marriage-relation'), ('ἀπαλλαχθῇ', 'be quit'), ('κόσμον', 'finery'), ('πικρὸν', 'that gives him pain'), ('καλὸν', 'lovely'), ('ἀνωφελεῖς', 'bad'), ('πέπλοισιν', 'with garments'), ('πρίασθαι', 'have bought'), ('βροτοὺς', 'men'), ('παρασχέσθαι', 'given us'), ('δόμους', 'his house'), ('προσθεὶς', 'adds to her'), ('δὲ', 'and then'), ('κακοῦ', 'of a trouble'), ('ὁ', 'who'), ('ἀλλ᾽', 'Rather'), ('κακὸν', 'this bane'), ('ἀνθρώποις', 'mankind'), ('ἐς', 'in'), ('ἤθελες', 'you wished'), ('προστιθεὶς', 'adding'), ('δόμους', 'ourselves'), ('φῶς', 'the light'), ('τούτῳ δὲ δῆλον', 'The clear proof is this'), ('Ζεῦ', 'Zeus'), ('λαβὼν', 'he gets'), ('παίδων σπέρμα', 'offspring'), ('γαμβροῖσι', 'a connection by marriage'), ('σπείρας', 'begat her'), ('δωμάτων', 'of his house'), ('ἡλίου', 'of the sun'), ('θρέψας', 'raised her')}
+
+=====================================
+
+
+length(31121): 108
+length(31120): 103
+
+
+Intersection (14):
+------------------
+
+{('δόμους', 'his home'), ('λαβὼν', 'takes'), ('ἢ', 'or'), ('χαλκὸν', 'bronze'), ('εἰ', 'If'), ('ἐς', 'into'), ('πατὴρ', 'the father'), ('ἐν', 'in'), ('σίδηρον', 'iron'), ('ἕκαστον', 'each man'), ('γυναικῶν', 'women'), ('τε καὶ', 'and'), ('τί δὴ', 'why'), ('χρηστὰ', 'good')}
+
+
+TPs in 31121 not in 31120 (90):
+------------------
+
+{('αὖ', 'while'), ('πικρὸν', 'he loathes'), ('χρῆν', 'they should'), ('τἀγαθῷ', 'with the good'), ('πρίασθαι', 'bought'), ('ὑπεξελών', 'squandering by degrees'), ('ἀλλ᾽', 'but'), ('πιέζει', 'he tries to stifle'), ('ἀνθρώποις', "to man ' s sorrow"), ('μέλλοντες', 'we would'), ('καλὸν', 'fine'), ('ναίειν', 'dwelt'), ('ἀπῴκισ᾽', 'packs her off'), ('ἡλίου', 'the sun'), ('κακὸν', 'a curse is'), ('ὁ δ᾽', 'who'), ('ἤθελες', 'thou wert minded'), ('λέχος', 'the wife'), ('γαμβροῖσι', 'connections'), ('ἐς', 'where'), ('παίδων σπέρμα', 'a family'), ('δωμάτων', "his house ' s"), ('τῆς ἀξίας', 'proportioned'), ('κακὸν', 'this plague'), ('φυτὸν', 'the weed'), ('δ᾽', 'but'), ('λαβὼν', 'if he gets'), ('δόμους', 'our home'), ('κατῴκισας', 'didst thou put to dwell'), ('χρυσοῦ', 'gold'), ('καὶ', 'and'), ('δὲ', 'and so'), ('γένος', 'the race'), ('ἐκπονεῖ', 'tricks her out'), ('ὄλβον', 'wealth'), ('ἄξεσθαι', 'bring'), ('κακὸν', 'evil'), ('τούτῳ δὲ δῆλον', "' Tis clear from this"), ('βρότειον', 'human'), ('φῶς', 'shines'), ('πενθεροὺς', 'kin'), ('νῦν δ᾽', 'But now'), ('πέπλοισιν', 'in robes'), ('ὥστε', 'say'), ('φερνὰς', 'a dower'), ('θηλειῶν', 'women'), ('κηδεύσας', 'his marriage has brought him'), ('γὰρ', 'very'), ('ὁ', 'that'), ('χαίρων', 'he is glad'), ('γέγηθε', 'fondly'), ('Ζεῦ', 'Great Zeus'), ('ὡς', 'to'), ('ἀγάλματι', 'his sorry idol'), ('παρασχέσθαι', 'have drawn'), ('ἀντιθέντας', 'they should have paid'), ('σπεῖραι', 'that should multiply'), ('ἀνωφελεῖς', 'useless'), ('ἐκ', 'from'), ('ἐκτίνομεν', 'we bring to the ground'), ('βάρος', 'ponderous'), ('λέκτρα', 'a wife'), ('μέγα', 'great'), ('κόσμον', 'in raiment'), ('προστιθεὶς', 'decks'), ('δύστηνος', 'unhappy wight'), ('ναοῖς', 'temples'), ('του τιμήματος', 'to his offering'), ('θρέψας', 'nurtured her'), ('γυνὴ', 'a woman'), ('πρῶτον', 'as soon as ever'), ('τὸ δυστυχές', 'the bad luck'), ('κίβδηλον', 'counterfeit'), ('καλῶς', 'good'), ('προσθεὶς', 'gives her'), ('ὡς', 'how'), ('ὄλβον δωμάτων', 'its fortune'), ('σπείρας', 'begot'), ('σῴζεται', 'to keep'), ('τόδε', 'their stock'), ('ἀπαλλαχθῇ', 'rid him'), ('σοῖσιν', 'thy'), ('κακοῦ', 'of the mischief'), ('οὐκ', 'it was not'), ('γυναῖκας', 'woman'), ('ἔχει δ᾽ ἀνάγκην', 'For he is in this dilemma'), ('ἄτερ', 'from'), ('ἐλευθέροισι', 'free'), ('δώμασιν', 'independence'), ('ἀτηρὸν', 'noxious')}
+
+
+TPs in 31120 not in 31121 (88):
+------------------
+
+{('βρότειον', 'of human beings'), ('γυναῖκας', 'women'), ('πικρὸν', 'he finds distasteful'), ('φυτὸν', 'this creature'), ('ὡς', 'just how'), ('ἀλλ᾽', 'Instead of that'), ('ἀτηρὸν', 'toxic'), ('αὖ', 'But'), ('ἐκ', 'using'), ('ἀπαλλαχθῇ', 'rid himself'), ('φερνὰς', 'a dowry'), ('φῶς ἡλίου', 'our sunlit world'), ('ἄξεσθαι', 'have'), ('ἢ', 'or else'), ('ὑπεξελών', 'little by little wastes'), ('ναίειν', 'they could have lived'), ('κακίστῳ', 'for a brainless figurine'), ('ὁ δ᾽', 'the man who'), ('μέγα', 'big'), ('γαμβροῖσι', 'from his in-laws'), ('γυνὴ', 'woman'), ('κόσμον', 'with ornaments'), ('χρῆν', 'you should'), ('χρυσοῦ', 'of gold'), ('ἐς δόμους', 'live with us'), ('σπείρας', 'conceived'), ('δώμασιν', 'their own homes'), ('ἀνωφελεῖς', 'malicious'), ('πρῶτον', 'first of all'), ('δύστηνος', 'poor miserable wretch'), ('σοῖσιν', 'your'), ('λέχος', 'a marriage bond'), ('παρασχέσθαι', 'have done'), ('δωμάτων', 'family'), ('του τιμήματος', 'to his means'), ('βάρος', 'a load'), ('γέγηθε', 'can get his delight'), ('προστιθεὶς', 'embellishing'), ('ὦ', 'O'), ('ἀπῴκισ᾽', 'ships her off'), ('κακοῦ', 'of trouble'), ('οὐκ', 'not'), ('προσθεὶς', 'pays out'), ('ὄλβον', 'his wealth'), ('γένος', 'a race'), ('ὄλβον', 'the wealth'), ('ἐκτίνομεν', 'we must produce a bride price from'), ('ὡς', 'in order to'), ('κίβδηλον κακὸν', 'with their corrupting ways'), ('ἀνθρώποις', 'to lead men astray'), ('σπεῖραι', 'to propagate'), ('ἐν', 'into'), ('λέκτρα', 'his wife'), ('ναοῖς', 'holy shrines'), ('τὸ δυστυχές', 'his sense of discontent'), ('ἔχει δ᾽ ἀνάγκην', 'has a fatal choice'), ('νῦν δ᾽', 'But as it is'), ('πενθεροὺς', 'his in-laws'), ('ἄτερ', 'free'), ('βροτοὺς', 'men'), ('τούτῳ δὲ δῆλον', 'What’s more there is clear evidence to show'), ('πιέζει', 'to neutralize'), ('ἐκπονεῖ', 'decorating her'), ('δὲ', 'and then'), ('σῴζεται', 'let that compensate him for the pain'), ('γὰρ', 'since'), ('ὁ', 'who'), ('τόδε', 'so'), ('κηδεύσας χαίρων', 'he can get some pleasure'), ('τἀγαθῷ', 'that good'), ('ἐς', 'in'), ('κακὸν', 'a problem can be'), ('μέλλοντες', 'when we are planning to'), ('πέπλοισιν', 'with fancy clothes'), ('πρίασθαι', 'purchased'), ('Ζεῦ', 'Zeus'), ('δωμάτων', 'of our estate'), ('τῆς ἀξίας', 'paying according'), ('ἐλευθέροισι', 'as free men'), ('καλὸν', 'lovely objects'), ('ἀγάλματι', 'his idol'), ('παίδων σπέρμα', 'offspring'), ('κατῴκισας', 'did you set'), ('κακὸν', 'this evil'), ('ἤθελες', 'you wanted'), ('θηλειῶν', 'of women'), ('θρέψας', 'raised her'), ('ἀντιθέντας', 'could have carried')}
+
+=====================================
+
+
+length(31118): 109
+length(31120): 103
+
+
+Intersection (29):
+------------------
+
+{('γυναῖκας', 'women'), ('χρυσοῦ', 'of gold'), ('ὡς', 'in order to'), ('σπεῖραι', 'to propagate'), ('φυτὸν', 'this creature'), ('ἐς', 'in'), ('τί δὴ', 'why'), ('χαλκὸν', 'bronze'), ('ἕκαστον', 'each man'), ('ἐν', 'in'), ('γυναικῶν', 'women'), ('Ζεῦ', 'Zeus'), ('θρέψας', 'raised her'), ('αὖ', 'But'), ('του τιμήματος', 'to his means'), ('εἰ', 'If'), ('φερνὰς', 'a dowry'), ('βροτοὺς', 'men'), ('ὁ', 'who'), ('χρηστὰ', 'good'), ('παίδων σπέρμα', 'offspring'), ('ὦ', 'O'), ('ἢ', 'or'), ('δὲ', 'and then'), ('σίδηρον', 'iron'), ('γυνὴ', 'woman'), ('τε καὶ', 'and'), ('ἐς', 'into'), ('ὄλβον', 'the wealth')}
+
+
+TPs in 31118 not in 31120 (76):
+------------------
+
+{('ὑπεξελών', 'destroying by degrees'), ('ἀγάλματι', 'to the statue'), ('ἄξεσθαι', 'take'), ('νῦν δ᾽', 'But as matters stand'), ('ἐς', 'unto'), ('χαίρων', 'his joy'), ('δύστηνος', 'wretch that he is'), ('τῆς ἀξίας', 'for a price corresponding'), ('ἀλλ᾽', 'Rather'), ('κακὸν', 'this bane'), ('τόδε', 'this'), ('πιέζει', 'keeps in check'), ('ἀνθρώποις', 'mankind'), ('μέλλοντες', 'when we are about to'), ('κακίστῳ', 'most worthless'), ('ἤθελες', 'you wished'), ('καὶ', 'and'), ('ἐκ', 'from'), ('λέχος', 'a marriage-relation'), ('προστιθεὶς', 'adding'), ('δόμους', 'ourselves'), ('ἀπαλλαχθῇ', 'be quit'), ('δώμασιν', 'houses'), ('γένος', 'the race'), ('ἐκπονεῖ', 'tricks her out'), ('κόσμον', 'finery'), ('πικρὸν', 'that gives him pain'), ('ὡς', 'that'), ('φῶς', 'the light'), ('λέκτρα', 'a wife'), ('τούτῳ δὲ δῆλον', 'The clear proof is this'), ('καλὸν', 'lovely'), ('ναίειν', 'dwelt'), ('βρότειον', 'human'), ('ἀνωφελεῖς', 'bad'), ('τἀγαθῷ', 'with his blessing'), ('ἢ', 'either'), ('λαβὼν', 'he gets'), ('πέπλοισιν', 'with garments'), ('οὐκ', 'it was not'), ('ἀντιθέντας', 'should have put down'), ('μέγα', 'great'), ('κατῴκισας', 'have you settled'), ('ναοῖς', 'the temples'), ('ὁ δ᾽', 'who'), ('λαβὼν', 'has taken'), ('κακὸν', 'a bane'), ('χρῆν', 'you should have'), ('τὸ δυστυχές', 'his unhappiness'), ('πρίασθαι', 'have bought'), ('δωμάτων', 'of our homes'), ('πατὴρ', 'her father'), ('παρασχέσθαι', 'given us'), ('θηλειῶν', 'the female sex'), ('ἄτερ', 'from'), ('ἐκτίνομεν', 'we pay out'), ('δόμους', 'his house'), ('σῴζεται', 'makes him preserve'), ('κηδεύσας', 'a man makes'), ('κίβδηλον', 'counterfeit'), ('ἐλευθέροισι', 'free'), ('γέγηθε', 'takes pleasure in'), ('γαμβροῖσι', 'a connection by marriage'), ('προσθεὶς', 'adds to her'), ('πενθεροὺς', 'in-laws'), ('ἀτηρὸν', 'of ruin'), ('σπείρας', 'begat her'), ('δ᾽', 'and'), ('κακοῦ', 'of a trouble'), ('δωμάτων', 'of his house'), ('κακὸν', 'is a bane'), ('καλῶς', 'good'), ('ἡλίου', 'of the sun'), ('ἔχει δ᾽ ἀνάγκην', 'There is a fatal necessity'), ('ἀπῴκισ᾽', 'sends her off'), ('βάρος', 'a mass')}
+
+
+TPs in 31120 not in 31118 (73):
+------------------
+
+{('βρότειον', 'of human beings'), ('χρῆν', 'you should'), ('τόδε', 'so'), ('κηδεύσας χαίρων', 'he can get some pleasure'), ('πατὴρ', 'the father'), ('κίβδηλον κακὸν', 'with their corrupting ways'), ('ἀνθρώποις', 'to lead men astray'), ('τἀγαθῷ', 'that good'), ('πικρὸν', 'he finds distasteful'), ('ἐς δόμους', 'live with us'), ('ὡς', 'just how'), ('ἐν', 'into'), ('σπείρας', 'conceived'), ('ἀλλ᾽', 'Instead of that'), ('δώμασιν', 'their own homes'), ('ἀνωφελεῖς', 'malicious'), ('πρῶτον', 'first of all'), ('δόμους', 'his home'), ('σοῖσιν', 'your'), ('δύστηνος', 'poor miserable wretch'), ('λέκτρα', 'his wife'), ('κακὸν', 'a problem can be'), ('μέλλοντες', 'when we are planning to'), ('πέπλοισιν', 'with fancy clothes'), ('ἀτηρὸν', 'toxic'), ('πρίασθαι', 'purchased'), ('ναοῖς', 'holy shrines'), ('τὸ δυστυχές', 'his sense of discontent'), ('λέχος', 'a marriage bond'), ('ἔχει δ᾽ ἀνάγκην', 'has a fatal choice'), ('δωμάτων', 'of our estate'), ('παρασχέσθαι', 'have done'), ('τῆς ἀξίας', 'paying according'), ('ἐκ', 'using'), ('δωμάτων', 'family'), ('νῦν δ᾽', 'But as it is'), ('πενθεροὺς', 'his in-laws'), ('ἀπαλλαχθῇ', 'rid himself'), ('βάρος', 'a load'), ('ἄτερ', 'free'), ('ἐλευθέροισι', 'as free men'), ('φῶς ἡλίου', 'our sunlit world'), ('γέγηθε', 'can get his delight'), ('προστιθεὶς', 'embellishing'), ('καλὸν', 'lovely objects'), ('ἄξεσθαι', 'have'), ('ἢ', 'or else'), ('ὑπεξελών', 'little by little wastes'), ('τούτῳ δὲ δῆλον', 'What’s more there is clear evidence to show'), ('ἀγάλματι', 'his idol'), ('ναίειν', 'they could have lived'), ('κακίστῳ', 'for a brainless figurine'), ('ὁ δ᾽', 'the man who'), ('πιέζει', 'to neutralize'), ('κακοῦ', 'of trouble'), ('ἀπῴκισ᾽', 'ships her off'), ('λαβὼν', 'takes'), ('μέγα', 'big'), ('ἐκπονεῖ', 'decorating her'), ('κατῴκισας', 'did you set'), ('κακὸν', 'this evil'), ('σῴζεται', 'let that compensate him for the pain'), ('γὰρ', 'since'), ('οὐκ', 'not'), ('ἤθελες', 'you wanted'), ('προσθεὶς', 'pays out'), ('θηλειῶν', 'of women'), ('γαμβροῖσι', 'from his in-laws'), ('ὄλβον', 'his wealth'), ('γένος', 'a race'), ('κόσμον', 'with ornaments'), ('ἀντιθέντας', 'could have carried'), ('ἐκτίνομεν', 'we must produce a bride price from')}
+
+=====================================
